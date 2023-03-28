@@ -13,10 +13,10 @@ para hacer estas backtics son las tildes invertidas yo las tengo con altgr+la te
 
 #app proyect
 
-'''sh
+```sh
 git glone
 cd app
 source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
-'''
+```
