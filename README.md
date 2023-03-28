@@ -16,6 +16,7 @@ para hacer estas backtics son las tildes invertidas yo las tengo con altgr+la te
 ```sh
 git glone
 cd app
+python3 -m venv env
 source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
